@@ -158,7 +158,7 @@ git clone https://github.com/yourusername/cdc-vaccine-etl-pipeline.git
 
 **Fahim Akbar**  
 M.S. Data Analytics | Databricks Certification (In Progress)  
-[LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+[LinkedIn](https://www.linkedin.com/in/fahim-akbar-m-s-93326b186/) | [GitHub]((https://github.com/FahimAriqAkbar1997))
 
 ---
 
